@@ -16,20 +16,3 @@ console.log('HELLO'.toLowerCase());
 }
 
 
-function sayHiToGrandma(string) {
-var string = "HELLO!"
- 
-"hello".toUpperCase() === uppercase // true
- 
-var string = 'hello!'
- 
-'HELLO'.toLowerCase() === lowercase // true
-
-var mixedCase = 'Hi there!'
- 
-mixedCase.toLowerCase() === mixedCase // false
- 
-mixedCase.toUpperCase() === mixedCase // false
-return string 
-}
-
