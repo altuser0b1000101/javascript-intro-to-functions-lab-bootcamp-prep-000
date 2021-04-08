@@ -20,8 +20,6 @@ var uppercase = "HELLO!"
  
 uppercase.toUpperCase() === uppercase // true
 
-return 
- 
 var lowercase = 'hello!'
  
 lowercase.toLowerCase() === lowercase // true
@@ -31,6 +29,8 @@ var mixedCase = 'Hi there!'
 mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
+
+return string
 }  
 
 
