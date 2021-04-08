@@ -25,7 +25,7 @@ var lowercase = 'I cant hear you!'
  
 lowercase.toLowerCase() === lowercase // true
  
-var mixedCase = 'Hi there!'
+var mixedCase = 'I love you, too.'
  
 mixedCase.toLowerCase() === mixedCase // false
  
