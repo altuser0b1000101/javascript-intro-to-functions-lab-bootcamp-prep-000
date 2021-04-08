@@ -31,4 +31,5 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
+return string
 }
